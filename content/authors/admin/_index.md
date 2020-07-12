@@ -1,75 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Song Feng
+role: Computational Scientist
+avatar_filename: song.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Pacific Northwest National Laboratory
+    url: www.pnnl.gov
+superuser: true
+authors:
+  - admin
+bio: I am a scientist interested in complex systems. I believe the
+  non-triviality for human is exploring and expanding their physical and
+  spiritual boundaries. It is an endless game. Let's have fun.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Complex Systems
+  - Evolution
+  - Control
+  - Synthetic Biology
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/fengzhimu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=1zDxMDUAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lifeworks
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Evolutionary Systems Biology
+      institution: The University of Warwick
+      year: 2016
+    - course: MSc in Bioscience
+      institution: King Abdullah University of Science and Technology
+      year: 2011
+    - course: BSc in Biotechnology
+      institution: Zhejiang University
+      year: 2009
+email: song.feng@outlook.com
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Song Feng is a computational scientist at the Pacific Northwest National Laboratory. In general, he is interested in studying complex systems by integrating both mechanism-based and data-driven approaches, in order to understand their dynamics, evolution, control, and design. The ultimate goal is to understand (some of) the design principles of complex systems, whether it is physical, biological or social systems. Such design principles will guide the de novo design or systematic control of these complex systems.
