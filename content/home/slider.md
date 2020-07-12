@@ -35,7 +35,7 @@ height = ""
 #  cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Multi-scale Modeling"
+  title = "Multi-scale Modeling and Simulation"
   content = "Study of Complex Systems"
   align = "left"
 
@@ -51,4 +51,15 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Large-scale Data-Model Integration"
+  content = "Accelerate Discovery"
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
 +++
