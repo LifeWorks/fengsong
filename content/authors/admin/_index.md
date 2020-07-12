@@ -33,16 +33,16 @@ education:
   courses:
     - course: PhD in Evolutionary Systems Biology
       institution: The University of Warwick
-      year: ""
+      year: 2016
     - course: PhD Student in Mathematics
       institution: University of Exeter
-      year: ""
+      year: 2012
     - course: MSc in Bioscience
       institution: King Abdullah University of Science and Technology
-      year: ""
+      year: 2011
     - course: BSc in Biotechnology
       institution: Zhejiang University
-      year: ""
+      year: 2009
 email: song.feng@outlook.com
 user_groups:
   - Researchers
