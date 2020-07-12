@@ -1,7 +1,7 @@
 ---
 title: Song Feng
 role: Computational Scientist
-avatar_filename: song.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Pacific Northwest National Laboratory
     url: www.pnnl.gov
