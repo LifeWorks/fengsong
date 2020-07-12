@@ -19,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: fengzhimu@outlook.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fengzhimu
