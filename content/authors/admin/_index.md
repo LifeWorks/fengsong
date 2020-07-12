@@ -32,7 +32,7 @@ social:
 education:
   courses:
     - course: PhD in Evolutionary Systems Biology
-      institution: The University of Warwick
+      institution: University of Warwick
       year: 2016
     - course: PhD Student in Mathematics
       institution: University of Exeter
