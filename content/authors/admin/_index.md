@@ -49,3 +49,13 @@ user_groups:
   - Visitors
 ---
 Song Feng is a computational scientist at the Pacific Northwest National Laboratory. In general, he is interested in studying complex systems by integrating both mechanism-based and data-driven approaches, in order to understand their dynamics, evolution, control, and design. The ultimate goal is to understand (some of) the design principles of complex systems, whether it is physical, biological or social systems. Such design principles will guide the de novo design or systematic control of these complex systems.
+
+What I cannot create, I do not understand.
+
+\    — Richard P. Feynman
+
+道可道，非常道。名可名，非常名。
+
+致虚极，守静笃。万物并作，吾以观复。
+
+\    — 老子
