@@ -52,8 +52,6 @@ Song Feng is a computational scientist at the Pacific Northwest National Laborat
 
 ***What I cannot create, I do not understand.*** — Richard P. Feynman
 
-***道可道也，非恒道也。名可名也，非恒名也。***
-
 ***致虛極，守靜篤；萬物並作，吾以觀復。*** — 老子
 
 The non-triviality for humans is exploring and expanding their physical and spiritual boundaries. It is an endless game. Let's have fun.
