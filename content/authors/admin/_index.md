@@ -48,7 +48,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Song Feng is a scientist at the Pacific Northwest National Laboratory. In general, he is interested in studying complex systems by integrating both mechanism-based and data-driven approaches, in order to understand their dynamics, evolution, control, and design. The ultimate goal is to understand (some of) the design principles of complex systems, whether it is physical, biological, or social systems. Such design principles will guide the *de novo* design or systematic control of these complex systems.
+Song Feng is a scientist at the Pacific Northwest National Laboratory. In general, he is interested in studying complex systems by integrating both mechanism-based and data-driven approaches, in order to understand their dynamics and evolution as well as to enable systematic control and *de novo* design. The ultimate goal is to understand (some of) the design principles of complex systems, whether it is physical, biological, or social systems. Such design principles will guide the *de novo* design or systematic control of these complex systems.
 
 ***What I cannot create, I do not understand.*** — Richard P. Feynman
 
