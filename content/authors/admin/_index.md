@@ -34,9 +34,6 @@ education:
     - course: PhD in Evolutionary Systems Biology
       institution: University of Warwick
       year: 2016
-    - course: PhD Student in Mathematics
-      institution: University of Exeter
-      year: 2012
     - course: MSc in Bioscience
       institution: King Abdullah University of Science and Technology
       year: 2011
