@@ -28,11 +28,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoc"
+  company = "National Renewable Energy Laboratory"
+  company_url = "www.nrel.gov"
+  location = "Golden, CO"
+  date_start = "2019-06-03"
+  date_end = "2019-08-30"
+  description = """"""
+
+[[experience]]
+  title = "Postdoc"
   company = "Los Alamos National Laboratory"
   company_url = "www.lanl.gov"
   location = "Los Alamos, NM"
   date_start = "2016-08-01"
-  date_end = "2019-06-03"
+  date_end = "2019-05-31"
   description = """"""
 
 [[experience]]
