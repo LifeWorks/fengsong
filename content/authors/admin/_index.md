@@ -12,10 +12,10 @@ bio: I am a scientist interested in complex systems. I believe the
   non-triviality for human is exploring and expanding their physical and
   spiritual boundaries. It is an endless game. Let's have fun.
 interests:
-  - Complex Systems
-  - Evolution
-  - Control
+  - Systems Biology
   - Synthetic Biology
+  - Complex Systems
+  - Network Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,7 +31,7 @@ social:
     link: https://github.com/lifeworks
 education:
   courses:
-    - course: PhD in Evolutionary Systems Biology
+    - course: PhD in Computational Systems Biology
       institution: University of Warwick
       year: 2016
     - course: MSc in Bioscience
